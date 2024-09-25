@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Khouzama Bin J\source\repos\HW01\HW01\main.cpp(187,31): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  HW01.vcxproj -> C:\Users\Khouzama Bin J\source\repos\HW01\Debug\HW01.exe
