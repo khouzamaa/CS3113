@@ -1,0 +1,9 @@
+﻿  Entity.cpp
+  main.cpp
+C:\Users\Khouzama Bin J\Desktop\CS3113\HW03\HW03\main.cpp(143,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Khouzama Bin J\Desktop\CS3113\HW03\HW03\main.cpp(374,37): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\Khouzama Bin J\Desktop\CS3113\HW03\HW03\main.cpp(390,37): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\Khouzama Bin J\Desktop\CS3113\HW03\HW03\main.cpp(400,37): warning C4305: '-=': truncation from 'double' to 'float'
+  ShaderProgram.cpp
+  Generating Code...
+  HW03.vcxproj -> C:\Users\Khouzama Bin J\Desktop\CS3113\HW03\Debug\HW03.exe
