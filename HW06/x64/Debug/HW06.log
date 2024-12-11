@@ -1,0 +1,29 @@
+﻿  Entity.cpp
+  LevelA.cpp
+  LevelB.cpp
+C:\Users\Khouzama Bin J\source\repos\HW06\HW06\Scene.h(9,10): error C1083: Cannot open include file: 'SDL_mixer.h': No such file or directory
+  (compiling source file 'LevelA.cpp')
+  
+C:\Users\Khouzama Bin J\source\repos\HW06\HW06\Scene.h(9,10): error C1083: Cannot open include file: 'SDL_mixer.h': No such file or directory
+  (compiling source file 'LevelB.cpp')
+  
+  LevelC.cpp
+C:\Users\Khouzama Bin J\source\repos\HW06\HW06\Scene.h(9,10): error C1083: Cannot open include file: 'SDL_mixer.h': No such file or directory
+  (compiling source file 'LevelC.cpp')
+  
+  main.cpp
+C:\Users\Khouzama Bin J\source\repos\HW06\HW06\main.cpp(24,10): error C1083: Cannot open include file: 'SDL_mixer.h': No such file or directory
+  Map.cpp
+C:\Users\Khouzama Bin J\source\repos\HW06\HW06\Map.cpp(94,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Khouzama Bin J\source\repos\HW06\HW06\Map.cpp(95,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Menu.cpp
+C:\Users\Khouzama Bin J\source\repos\HW06\HW06\Scene.h(9,10): error C1083: Cannot open include file: 'SDL_mixer.h': No such file or directory
+  (compiling source file 'Menu.cpp')
+  
+  Scene.cpp
+C:\Users\Khouzama Bin J\source\repos\HW06\HW06\Scene.h(9,10): error C1083: Cannot open include file: 'SDL_mixer.h': No such file or directory
+  (compiling source file 'Scene.cpp')
+  
+  ShaderProgram.cpp
+  Utility.cpp
+  Generating Code...
